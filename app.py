@@ -1,15 +1,15 @@
 import streamlit as st
 from langchain_community.vectorstores import FAISS
-from langchain_openai import OpenAIEmbeddings
+from langchain_openai import OpenAIEmbeddings  # Remove this if not using OpenAI embeddings
 import gemini  # Đừng quên import thư viện Gemini
 import openai
 st.set_page_config(page_title="Law Chatbot", layout="wide")
 
 # Khóa API
-gemini.api_key = "YOUR_API_KEY_HERE"  # Cập nhật API Key của Gemini
+gemini.api_key = "AIzaSyCef1vFxl-W-8Jq9_T271JjyGQpeqsYstI"  # Cập nhật API Key của Gemini
 
 # Load chỉ mục FAISS
-vector_store = FAISS.load_local("law_faiss_index", OpenAIEmbeddings(openai_api_key=openai.api_key))
+vector_store = FAISS.load_local("law_faiss_index", OpenAIEmbeddings())  # Sử dụng OpenAIEmbeddings không đúng, phải thay thế
 
 # Hàm tạo câu trả lời
 def generate_answer(question):
