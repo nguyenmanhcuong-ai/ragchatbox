@@ -1,0 +1,10 @@
+pip install streamlit
+pip install python-dotenv
+pip install langchain_text_splitters
+pip install langchain-community
+pip install langchain-google-genai
+pip install langchain-huggingface
+pip install pypdf
+pip install docx2txt
+pip install faiss-cpu
+
