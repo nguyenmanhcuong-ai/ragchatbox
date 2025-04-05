@@ -42,7 +42,7 @@ o	Hay hỏi nhiều người cho một việc đơn giản, rồi… phân vân 
 o	Thiếu lập trường, thiếu kiên định khi gặp khó khăn
 o	Đôi khi quá “lo xa” về những điều nhỏ nhặt
 •	Tổng kết: Một người có trái tim ấm áp, đầy tình cảm nhưng còn thiếu "cú hích tinh thần" để trở nên mạnh mẽ, vững vàng hơn trong cuộc sống.
-________________________________________
+
 4. Chuyện tình cảm – Hành trình đơn phương bất tận
 •	Tình trạng hiện tại: 21 tuổi – vẫn chưa biết nắm tay con gái là cảm giác thế nào.
 •	Nguyên nhân:
@@ -51,7 +51,7 @@ o	Không dám nhìn vào mắt con gái
 o	Gặp crush là lúng túng như học sinh lớp 1 đứng trước bảng
 o	Chưa từng tỏ tình ai, dù rất thích… ngắm gái
 •	Điểm nhấn:
-o	Từng có “giao diện mập mờ” với Lê Phương Thảo – em gái họ của bạn thân Lê Trung Quyền.
+o	Từng có “quan hệ mập mờ” với Lê Phương Thảo – em gái họ của bạn thân Lê Trung Quyền.
 o	Mối quan hệ “nửa thật nửa đùa”, chỉ thiếu một chút dũng cảm, một chút liều lĩnh là có thể bước thêm. Nhưng tiếc rằng, Đoan vẫn là Đoan – ngại ngùng và sợ bị từ chối.
 
 5. Đánh giá tổng quan
